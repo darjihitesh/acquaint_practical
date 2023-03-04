@@ -10,3 +10,5 @@
 # I have create child theme for customization
 
 # To use AGC payment have to activate the plugin that i have created
+
+# I have used wordpress v6.1.1
